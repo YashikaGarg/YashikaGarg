@@ -29,6 +29,8 @@ function setup() {
 
 function draw() {
   background(0);
+	
+  // Third Commit	
 
   if(wall.x-car.x < (car.width+wall.width)/2)
   {
